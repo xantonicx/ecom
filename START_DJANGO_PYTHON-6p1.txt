@@ -101,7 +101,7 @@ git push -u origin main
 
 
 token
-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
+
 
 #up to github.com
 git remote add origin https://github.com/xantonicx/ecom.git
